@@ -2,4 +2,6 @@
 
 En este repositorio, voy a ir subiendo proyectos de OpenCV y Python
 
-## Manejo de c
+## Manejo de cámara webcam con python
+## Dibujar áreas en imágenes/videos
+
